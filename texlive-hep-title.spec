@@ -1,6 +1,6 @@
 Name:		texlive-hep-title
-Version:	64907
-Release:	2
+Version:	67632
+Release:	1
 Summary:	Extensions for the title page
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hep-title
